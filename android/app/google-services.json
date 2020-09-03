@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390035633803",
+    "firebase_url": "https://catering-rugu.firebaseio.com",
+    "project_id": "catering-rugu",
+    "storage_bucket": "catering-rugu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390035633803:android:41c31acb999bb2ddad868e",
+        "android_client_info": {
+          "package_name": "com.catering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390035633803-5fvbobbs1timfo18bpokavuafm98jp52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvp72U6ug3paDav8YMulZgjFV0NqFW-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390035633803-5fvbobbs1timfo18bpokavuafm98jp52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
